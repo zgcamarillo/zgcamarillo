@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=F8C8DC&height=120&section=header&text=About%20Me&fontColor=ffffff&fontSize=40"/>
 
-Hi! I'm **Zayra** 🌸  
+Hi! I'm **Zayra**   
 An aspiring **Software Engineer** who loves building creative and meaningful technology.
 
 My passion for tech comes from my own experiences growing up, and I’m especially interested in creating tools that support **underserved communities and people navigating language barriers.** I believe technology should be accessible, helpful, and empowering.
